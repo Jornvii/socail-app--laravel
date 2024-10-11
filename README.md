@@ -57,6 +57,54 @@ created_at: Timestamp indicating when the notification was created.
 Foreign Key (user_id): Links the notification to the user receiving it.
 Foreign Key (post_id): Links the notification to the relevant post.
 
+
+-******************************************** Laravel Passport
+https://laravel.com/docs/10.x/passport
+
+🌞 composer require laravel/passport
+🔥 if can't in satall ---> composer require laravel/passport --ignore-platform-req=ext-sodium
+🌞php artisan migrate
+🌞
+
+-******************************************** Laravel Passport
+https://laravel.com/docs/10.x/passport
+
+🌞 composer require laravel/passport
+🌞
+🌞
+🌞
+
+-******************************************** Laravel Passport
+https://laravel.com/docs/10.x/passport
+
+🌞 composer require laravel/passport
+🌞
+🌞
+🌞
+
+-******************************************** Laravel Passport
+https://laravel.com/docs/10.x/passport
+
+🌞 composer require laravel/passport
+🌞
+🌞
+🌞
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+****************************************************************
 Data create
 -- User Table
 CREATE TABLE User (
